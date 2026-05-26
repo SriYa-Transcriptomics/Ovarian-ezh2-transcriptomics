@@ -28,6 +28,9 @@ FASTQC -> HISAT2 (Read Alignment) -> Infer Experiment -> StringTie (Transcript A
 - ToppGene
 ## Current Status
 Ongoing Computational Oncology Project
+
+Expected Completion: July 2026
+
 Current Progress:
 - Dataset acquisition completed
 - FASTQ preprocessing initiated
